@@ -1,6 +1,6 @@
-import './style.scss'
+import './styles.scss'
 
-export default function productsHigh () {
+export default function ProductsHigh () {
     return (
         <div className='containe'>
             <h2 className='titulo-colecaoEmdestaque'>Coleções em destaque</h2>
